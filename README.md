@@ -1,6 +1,6 @@
 # Algorithms-Permutation
 
-Generate all permutation subsets in  Big(n^3) complexity.
+Generate all permutation subsets in  O(n^3) complexity.
 for example
 
 for abc set
